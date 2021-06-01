@@ -1,0 +1,65 @@
+
+.navbar{
+    background-color: rgb(82, 82, 212);
+
+}
+.navbar img{
+    margin-top: 0rem;
+    height: 2.5rem;
+    width: 6rem;
+    background-color:rgb(82, 82, 212) ;
+    
+}
+.navbar h5{
+    font-size: 0.3rem;
+    text-align: center;
+    margin-top: 0.4rem;
+    
+    
+}
+.navbar a.active{
+    background:white;
+    color:black;
+}
+.navbar a:hover{
+    background:white;
+    color:black;
+
+}
+section{
+    margin-top: 8rem;
+    position: relative;
+}
+form .container {
+    position: relative;
+width:30rem;
+}
+footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: rgb(82, 82, 212);
+    color: white;
+    text-align: center;
+  }
+  
+  .bgimg{
+      background-image: url("/bgimg.png");
+      width: auto;
+      min-height: 650px;
+     position: relative;
+     background-repeat: no-repeat;
+     overflow: hidden;
+     background-position: center;
+     background-size: cover;
+     background-position:0% 0%;
+  }
+
+
+
+
+  
+  
+  
+  
