@@ -45,7 +45,7 @@ footer {
   }
   
   .bgimg{
-      background-image: url("/bgimg.png");
+      background-image: url("bgimg.png");
       width: auto;
       min-height: 650px;
      position: relative;
